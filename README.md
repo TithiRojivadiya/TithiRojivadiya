@@ -4,8 +4,8 @@ I am a passionate and enthusiastic fresher in the field of programming, with ski
 
 ## 🔧 Skills
 
-- **Languages:** HTML, CSS, C, C++, Python
-- **Tools:** Git
+- **Languages:** HTML, CSS, C, C++, Python, Java(Basic)
+- **Tools:** Git, Tailwind CSS
 
 ## 🌱 Currently Learning
 
